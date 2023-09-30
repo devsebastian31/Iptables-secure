@@ -4,7 +4,7 @@
 <img src="Logotipo.png">
 </p>
 
-iptables es una herramienta de firewall para sistemas Linux. Su nombre proviene de "Internet Protocol Tables" y se utiliza para configurar y gestionar las reglas de filtrado de paquetes en el kernel de Linux. iptables es una parte esencial de la seguridad de red en sistemas basados en Linux y se utiliza para controlar el tráfico de red entrante y saliente en un servidor o una computadora.
+iptables e una herramienta de firewall para sistemas Linux. Su nombre proviene de "Internet Protocol Tables" y se utiliza para configurar y gestionar las reglas de filtrado de paquetes en el kernel de Linux. iptables es una parte esencial de la seguridad de red en sistemas basados en Linux y se utiliza para controlar el tráfico de red entrante y saliente en un servidor o una computadora.
 
 Aquí hay algunas de las cosas para las que se utiliza iptables:
 
